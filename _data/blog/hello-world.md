@@ -1,10 +1,17 @@
 ---
 template: BlogPost
-path: /hello-world
+path: /hello-beautiful-soul
 date: 2020-02-20T07:08:53.137Z
-title: Hello World
+title: Hello Beautiful Soul
+metaDescription: Message to Beautiful souls out there
 thumbnail: ''
-metaDescription: Meta description for Hello World
 ---
+I wish you sunlight on the days that take longer to pass by.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique fugiat delectus pariatur blanditiis nulla soluta ratione nostrum, harum maiores adipisci a quod nobis cupiditate quae odit unde qui sit consequuntur.
+I wish you courage during the moments that make you cry.
+
+I wish you persistence to meet the dreams for which you strive. 
+
+I wish you joy and understanding to do all that you want to do.
+
+I wish you softness in all the times that are rough.
