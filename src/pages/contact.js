@@ -22,16 +22,16 @@ const ContactPage = ({
         <div>
           <form className="form-container" method="post" data-netlify="true">
             <div>
-              <label htmlFor="w3lName">Name</label>
-              <input type="text" name="w3lName" id="w3lName"/>
+              <label htmlFor="Name">Name</label>
+              <input type="text" name="name" id="w3lName"/>
             </div>
             <div>
-              <label htmlFor="w3lSender">Email</label>
-              <input type="email" name="w3lSender" id="w3lSender"/>
+              <label htmlFor="Sender">Email</label>
+              <input type="email" name="sender" id="w3lSender"/>
             </div>
             <div>
-              <label htmlFor="w3lSubject">Subject</label>
-              <input type="text" name="w3lSubject" id="w3lSubject"/>
+              <label htmlFor="Subject">Subject</label>
+              <input type="text" name="subject" id="w3lSubject"/>
             </div>
             <div>
               <label htmlFor="w3lMessage">Message</label>
