@@ -1,10 +1,10 @@
 ---
 template: BlogPost
 path: /hello-beautiful-soul
-date: 2020-02-20T07:08:53.137Z
+date: 2020-07-19T22:42:00.000Z
 title: Hello Beautiful Soul
 metaDescription: Message to Beautiful souls out there
-thumbnail: ''
+thumbnail: /assets/dewang-gupta-IJXbmfBdIZk-unsplash.jpg
 ---
 I wish you sunlight on the days that take longer to pass by.
 
