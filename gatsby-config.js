@@ -44,13 +44,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Delog GatbsyJS Starter`,
-        short_name: `Delog`,
+        name: `Aliyu Abubakar`,
+        short_name: `Sadiqful`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#381696`,
         display: `standalone`,
-        icon: "src/images/icon.png",
+        icon: "src/icon.jpeg",
       },
     },
     `gatsby-plugin-sass`, 
