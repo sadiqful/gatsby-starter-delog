@@ -4,6 +4,7 @@ path: /map-in-javascript
 date: 2020-07-21T06:37:01.776Z
 title: 'Maps in JavaScript '
 metaDescription: 'Understanding Array Maps in JavaScript. '
+thumbnail: /assets/alvaro-reyes-qWwpHwip31M-unsplash.jpg
 ---
 Map is an Array Method that is called on existing array to return a new array based on what is returned from the function that’s passed as an argument. Here is a an example
 
