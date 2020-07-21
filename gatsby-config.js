@@ -6,7 +6,7 @@
 
 module.exports = {
   /* Your site config here */
-  siteMetaData: require("./site-meta-data.json"),
+  siteMetadata: require("./site-meta-data.json"),
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
